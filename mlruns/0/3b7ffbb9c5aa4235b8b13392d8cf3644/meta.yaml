@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/poppo/Desktop/github%20ai/end%20to%20end%20by%20vivek/TEXT-SUMMARIZER-PROJECT-ETE/mlruns/0/3b7ffbb9c5aa4235b8b13392d8cf3644/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3b7ffbb9c5aa4235b8b13392d8cf3644
+run_name: artifacts/model_trainer
+run_uuid: 3b7ffbb9c5aa4235b8b13392d8cf3644
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705157813368
+status: 1
+tags: []
+user_id: poppo

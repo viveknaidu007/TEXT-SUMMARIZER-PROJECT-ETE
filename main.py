@@ -27,7 +27,7 @@ except Exception as e:
 
 
 
-STAGE_NAME = "Data Validation stage"
+STAGE_NAME = "Data transformation stage"
 try:
    logger.info(f">>>>>> stage {STAGE_NAME} started <<<<<<") 
    data_validation = DataTransformationTrainingPipeline()
